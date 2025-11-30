@@ -116,3 +116,5 @@ robots:
     - /images/
   sitemaps:
     - "https://0x3n1ty.github.io/sitemap.xml"
+skip_render:
+  - google68bdf7490bb9c5bd.html
