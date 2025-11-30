@@ -104,5 +104,7 @@ sitemap:
 
 robots:
   user_agent: "*"
-  allow: /
-  sitemaps: "https://0x3n1ty.github.io/sitemap.xml"
+  allow:
+    - /
+  sitemaps:
+    - "https://0x3n1ty.github.io/sitemap.xml"
