@@ -96,7 +96,7 @@ deploy:
 
 # SEO
 sitemap:
-  path: sitemap.xml
+  path: sitemap.xml.html
   post: true
   page: true
   category: true
@@ -107,4 +107,4 @@ robots:
   allow:
     - /
   sitemaps:
-    - "https://0x3n1ty.github.io/sitemap.xml"
+    - "https://0x3n1ty.github.io/sitemap.xml.html"
