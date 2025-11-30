@@ -27,7 +27,7 @@ archive_dir: writings
 #category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: google68bdf7490bb9c5bd.html
 
 # Writing
 new_post_name: :title.md
@@ -116,5 +116,4 @@ robots:
     - /images/
   sitemaps:
     - "https://0x3n1ty.github.io/sitemap.xml"
-skip_render:
-  - google68bdf7490bb9c5bd.html
+
