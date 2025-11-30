@@ -6,10 +6,9 @@ tags:
   - web
   - xml
   - xxe
+  - oob
   - ctf-writeups
 ---
-
-# Lake CTF 2025 – Le Canard du Lac (Web 100)
 
 ![image](./writings/Lake-CTF-25-26-Quals-Le-Canard-du-Lac-Web-100-Writeup/description.png)
 
