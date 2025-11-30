@@ -94,3 +94,25 @@ deploy:
   repo: 'https://github.com/0x3n1ty/0x3n1ty.github.io.git'
   branch: 'main'
 
+# SEO
+sitemap:
+  path: sitemap.xml
+  post: true
+  page: true
+  category: true
+  tag: true
+
+robots:
+  user_agent: "*"
+  allow:
+    - /
+    - /categories/
+    - /about/
+    - /writings/
+    - /tags/
+  disallow:
+    - /js/
+    - /css/
+    - /images/
+  sitemaps:
+    - "https://0x3n1ty.github.io/sitemap.xml"
