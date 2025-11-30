@@ -1,5 +1,5 @@
 ---
-title: Web Cache Deception: Complete Guide
+title: Web Cache Deception - Complete Guide
 date: 2025-11-30
 category: guides
 tags: web

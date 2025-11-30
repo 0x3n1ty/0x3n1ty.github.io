@@ -1,7 +1,9 @@
+---
 title: Server-Side Request Forgery (SSRF) Comprehensive Guide
 date: 2025-11-30
 category: guides
 tags: web
+---
 
 ## Table of Contents
 1. [What is SSRF?](#what-is-ssrf)

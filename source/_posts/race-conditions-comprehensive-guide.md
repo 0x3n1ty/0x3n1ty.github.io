@@ -1,5 +1,5 @@
 ---
-title: Race Conditions: Comprehensive Guide
+title: Race Conditions - Comprehensive Guide
 date: 2025-11-30
 category: guides
 tags: web

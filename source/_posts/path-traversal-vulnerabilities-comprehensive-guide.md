@@ -1,5 +1,5 @@
 ---
-title: Path Traversal Vulnerabilities: Comprehensive  Guide
+title: Path Traversal Vulnerabilities - Comprehensive  Guide
 date: 2025-11-30
 category: guides
 tags: web
