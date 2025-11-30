@@ -1,6 +1,6 @@
 ---
 title: Server-Side Request Forgery (SSRF) Comprehensive Guide
-date: 2025-11-30
+date: 2025-11-29
 category: guides
 tags: web
 ---

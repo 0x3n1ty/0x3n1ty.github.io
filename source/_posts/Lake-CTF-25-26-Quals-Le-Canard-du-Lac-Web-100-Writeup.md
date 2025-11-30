@@ -1,6 +1,6 @@
 ---
 title: Lake CTF '25-'26 Quals - Le Canard du Lac (Web 100) Writeup
-date: 2025-11-30
+date: 2025-11-30 14:12
 category: writeups
 tags:
   - web
