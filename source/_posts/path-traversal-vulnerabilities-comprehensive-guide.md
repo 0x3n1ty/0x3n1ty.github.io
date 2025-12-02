@@ -2,7 +2,9 @@
 title: Path Traversal Vulnerabilities - Comprehensive  Guide
 date: 2025-11-29
 category: guides
-tags: web
+tags:
+  - web
+  - path-traversal
 ---
 
 ## 1. What is Path Traversal?

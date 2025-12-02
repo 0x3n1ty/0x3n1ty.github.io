@@ -2,7 +2,9 @@
 title: Race Conditions - Comprehensive Guide
 date: 2025-11-29
 category: guides
-tags: web
+tags:
+  - web
+  - race-condition
 ---
 
 ## Table of Contents

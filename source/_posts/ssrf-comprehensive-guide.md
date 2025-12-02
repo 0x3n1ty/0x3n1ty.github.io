@@ -2,20 +2,22 @@
 title: Server-Side Request Forgery (SSRF) Comprehensive Guide
 date: 2025-11-29
 category: guides
-tags: web
+tags: 
+  - web
+  - ssrf
 ---
 
 ## Table of Contents
-1. [What is SSRF?](#what-is-ssrf)
-2. [Impact of SSRF Attacks](#impact-of-ssrf-attacks)
-3. [Types of SSRF Attacks](#types-of-ssrf-attacks)
-4. [Common SSRF Vulnerabilities and Scenarios](#common-ssrf-vulnerabilities-and-scenarios)
-5. [SSRF Bypass Techniques](#ssrf-bypass-techniques)
-6. [DNS Rebinding](#dns-rebinding)
-7. [Detection Methods](#detection-methods)
-8. [Exploitation Steps](#exploitation-steps)
-9. [Mitigation and Prevention](#mitigation-and-prevention)
-10. [Real-World Examples](#real-world-examples)
+1. [What is SSRF?](#What-is-SSRF)
+2. [Impact of SSRF Attacks](#Impact-of-SSRF-Attacks)
+3. [Types of SSRF Attacks](#Types-of-SSRF-Attacks)
+4. [Common SSRF Vulnerabilities and Scenarios](#Common-SSRF-Vulnerabilities-and-Scenarios)
+5. [SSRF Bypass Techniques](#SSRF-Bypass-Techniques)
+6. [DNS Rebinding](#DNS-Rebinding)
+7. [Detection Methods](#Detection-Methods)
+8. [Exploitation Steps](#Exploitation-Steps)
+9. [Mitigation and Prevention](#Mitigation-and-Prevention)
+10. [Real-World Examples](#Real-World-Examples)
 
 ## What is SSRF?
 
