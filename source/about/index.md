@@ -7,7 +7,7 @@ layout: page
 
 ---
 
-# 👋 Hi, I'm **3n1ty** (Sivadatta Nakka)
+# 👋 Hi, I'm **Trinity** (Sivadatta Nakka)
 
 I hunt bugs, play CTFs, and break things until they make sense.
 Focused on Web, API Security — especially weird edge-case bypasses.
