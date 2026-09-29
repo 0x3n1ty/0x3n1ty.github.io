@@ -13,6 +13,8 @@ tags:
 
 We are given a PNG image file.
 
+![PNG](../writings/H7CTF-2026-Quals/Overexposed/overexposed.png)
+
 We start by checking what the file actually is, not trusting the extension.
 
 ```bash
