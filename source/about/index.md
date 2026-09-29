@@ -1,66 +1,13 @@
 ---
 title: about
-date: 2025-11-30
+date: 2026-09-30
 layout: page
 ---
-# About Me
 
----
+I'm Sivadatta Nakka, a *security analyst and developer* at APTS, focused on web security. I studied civil engineering at RGUKT SKLM and taught myself security by reading blogs, solving CTFs and labs, watching YouTube videos and prompting AI models.
 
-# 👋 Hi, I'm **Trinity** (Sivadatta Nakka)
+I found security issues in Jio, Cashfree, Sensfrx, NPTEL, Panasonic, Whereby, SimplAI.
 
-I hunt bugs, play CTFs, and break things until they make sense.
-Focused on Web, API Security — especially weird edge-case bypasses.
+I also found an [XSS](https://github.com/Ashish-CodeJourney/satteri-plugins/security/advisories/GHSA-8hwv-m82c-93qv) in the [satteri-sanitize](https://www.npmjs.com/package/satteri-sanitize) npm package.
 
----
-
-## 🌐 Socials
-- **LinkedIn:** [linkedin.com/in/sivadatta-nakka](https://linkedin.com/in/sivadatta-nakka)
-- **X (Twitter):** [x.com/0x3n1ty](https://x.com/0x3n1ty)
-- **CTFtime:** [ctftime.org/user/231965](https://ctftime.org/user/231965)
-
----
-
-## 🚀 What I Do
-- Bug Bounty / Security Research
-- Web, Mobile, API & Network Pentesting
-- CTFs (Web + Misc)
-- Writing PoCs, blogs, and bypass techniques
-
-📫 **Contact:** `3n1ty1337@gmail.com`
-
----
-
-## 🌱 Currently Learning
-- Android Security
-- Cloud Security
-
----
-
-## 🛠️ Skills
-
-### 👨‍💻 Testing & Security
-- Web • API Pentesting
-- Bug Hunting
-- CTF Challenges & Writeups
-
-### 👨‍💻 Programming & Markup
-Bash • C • CSS • HTML • JavaScript • Markdown • PHP • Python • SQL • LaTeX
-
-### 🧰 Frameworks & Security Sets
-OWASP Top 10 • MITRE ATT&CK • SANS Top 25 
-NodeJs • ReactJs • NextJs • CodeIgniter
-
-### 🗄️ Databases & Cloud
-MySQL • PostgreSQL • SQLite
-• Notion
-
-### 💻 Tools
-Burp Suite • ZAP • SQLMap • Nmap • Postman 
-Git • GitHub • VS Code • Acunetix
-Kali Linux
-
----
-
-## ✨ Achievements
-- Reported & secured **30+** websites and applications.
+[<i class="fa-brands fa-linkedin"></i>](https://linkedin.com/in/sivadatta-nakka) [<i class="fa-brands fa-twitter"></i>](https://x.com/0x3n1ty) [<i class="fa-solid fa-flag"></i>](https://ctftime.org/user/231965) [<i class="fa-solid fa-envelope"></i>](mailto:3n1ty1337@gmail.com)

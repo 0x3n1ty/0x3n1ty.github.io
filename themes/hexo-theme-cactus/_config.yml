@@ -27,8 +27,8 @@ social_links:
 # Hide tagcloud and limit recent posts
 tags_overview: false
 posts_overview:
-  show_all_posts: false
-  post_count: 8
+  show_all_posts: true
+  post_count: 10
   sort_updated: false
 
 archive:
