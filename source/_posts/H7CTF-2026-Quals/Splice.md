@@ -14,7 +14,7 @@ tags:
 
 Opened the challenge URL. We can upload an audio clip and the server uses the user inputted export name to render the audiogram and gives us a picture with the inputted name in the response.
 
-This reminds me of a challenge I couldn't solve which involves exploiting an argument injection bug in the file name. - [ImageMagik from moleconCTF-2025-Teaser](https://medium.com/@bhavya32/m0lecon-web-writeups-d31ae9cb5335).
+This reminds me of a challenge I couldn't solve which involves exploiting an argument injection bug in the file name. - [ImageMagik from moleconCTF-2026-Teaser](https://medium.com/@bhavya32/m0lecon-web-writeups-d31ae9cb5335).
 
 ![webpage](../writings/H7CTF-2026-Quals/Splice/3.png)
 
